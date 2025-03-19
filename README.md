@@ -33,6 +33,7 @@ Haz clic en el botón Sortear Amigo para seleccionar un nombre al azar.
 El resultado se mostrará en la sección de resultados.
 
 Tecnologías utilizadas 🛠️
+
 HTML: Estructura de la aplicación.
 
 CSS: Estilos y diseño responsive.
