@@ -16,6 +16,7 @@ Sorteo aleatorio: Al hacer clic en Sortear Amigo, se selecciona un nombre al aza
 Soporte para tecla Enter: Los nombres también se pueden agregar presionando la tecla Enter.
 
 Cómo usar 🚀
+
 Agregar nombres:
 
 Escribe el nombre de un amigo en el campo de texto.
@@ -41,6 +42,7 @@ CSS: Estilos y diseño responsive.
 JavaScript: Lógica del programa y funcionalidades interactivas.
 
 Contribuir 🤝
+
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, sigue estos pasos:
 
 Haz un fork del repositorio.
